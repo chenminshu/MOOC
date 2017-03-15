@@ -15,14 +15,15 @@ bold&italics:***Strong and Emphasize***</br>
     System.out.println();
     } 
 ```
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}. $$
+$$ 
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}. 
+$$
 ---
 | 111    | 222    | 333    | 444    | 
 | ------ |:------:|:------ | ------:|
 | col  	 |        |        |    	|
 | line 	 |        |        |    	|
 ***
-</br>
-> Reference
-> > quote
-> > > sub
+> ## Reference
+>> quote
+>>> sub
