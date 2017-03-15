@@ -22,8 +22,8 @@ footnote:Python[^1] Markdown[^2] </br>
 | col  	 |        |        |    	|
 | line 	 |        |        |    	|
 ***
-[^2]:Markdown是一种纯文本标记语言
 [^1]:Python 
+[^2]:Markdown是一种纯文本标记语言
 ___
 > ## Reference
 >> quote
