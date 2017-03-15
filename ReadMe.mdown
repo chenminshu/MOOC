@@ -1,14 +1,16 @@
-#Markdown Test
+# Markdown Test
 ![MOOC](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489581903091&di=3e6cdfd21010b1aa68a1d21d8661478a&imgtype=0&src=http%3A%2F%2Fwww.68idc.cn%2Fhelp%2Fuploads%2Fallimg%2F150119%2F0S533G09-29.png)</br>
 [Open edX Platform APIs](http://edx.readthedocs.io/projects/edx-platform-api/en/latest/)</br>
 inxedu:<http://www.inxedu.com/></br>
-*Strong and Emphasize*</br>
-**Strong and Emphasize**</br>
-***Strong and Emphasize***</br>
-*111
-*222
-*333
-`code: public static void main(String[] args){...} `</br>
+italics:*Strong and Emphasize*</br>
+* 111
+* 222
+* 333
+`[code](http://www.jianshu.com): public static void main(String[] args){...} `</br>
+
 ---
+***
+</br>
 >Reference
 >>quote 
+>>>subquote
