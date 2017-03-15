@@ -6,6 +6,8 @@ italics:*Strong and Emphasize*</br>
 bold:**Strong and Emphasize**</br>
 bold&italics:***Strong and Emphasize***</br>
 footnote:Python[^1] Markdown[^2] </br>
+[^1]: Python 
+[^2]: Markdown是一种纯文本标记语言
 * 111
 * 222
 * 333</br>
@@ -22,8 +24,9 @@ footnote:Python[^1] Markdown[^2] </br>
 | col  	 |        |        |    	|
 | line 	 |        |        |    	|
 ***
-[^1]: Python 
-[^2]: Markdown是一种纯文本标记语言
+1. aaa
+2. bbb
+3. ccc
 ___
 > ## Reference
 >> quote
