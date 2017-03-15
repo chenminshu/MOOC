@@ -8,11 +8,16 @@ bold:**Strong and Emphasize**</br>
 * 222
 * 333</br>
 `code: public static void main(String[] args){...} `</br>
+
+``` java
+    public static void main(String[] args){
+    System.out.println();
+    } ```
 ---
-|1     | 2   | 3   | 4  | 
-| ---- |:---:|:----| --:|
-| col  |     |     |    |
-|line  |     |     |    |
+| 111    | 222    | 333    | 444    | 
+| ------ |:------:|:------ | ------:|
+| col  	 |        |        |    	|
+| line 	 |        |        |    	|
 ***
 </br>
 > Reference
