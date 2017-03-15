@@ -5,16 +5,17 @@ inxedu:<http://www.inxedu.com></br>
 italics:*Strong and Emphasize*</br>
 bold:**Strong and Emphasize**</br>
 bold&italics:***Strong and Emphasize***</br>
+footnote:Python[^1] Markdown[^2] </br>
 * 111
 * 222
 * 333</br>
 `code:`
 ``` java
     public static void main(String[] args){
-    System.out.println();
+    	System.out.println();
     } 
 ```
-footnote:Python[^1] Markdown[^2] 
+
 ---
 | 111    | 222    | 333    | 444    | 
 | ------ |:------:|:------ | ------:|
@@ -23,4 +24,5 @@ footnote:Python[^1] Markdown[^2]
 ***
 > ## Reference
 >> quote
->>> sub
+>>> [^2]:Markdown是一种纯文本标记语言
+>>> [^1]:Python 
