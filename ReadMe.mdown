@@ -4,6 +4,7 @@
 inxedu:<http://www.inxedu.com/></br>
 italics:*Strong and Emphasize*</br>
 bold:**Strong and Emphasize**</br>
+bold&italics:***Strong and Emphasize***</br>
 * 111
 * 222
 * 333</br>
@@ -14,6 +15,7 @@ bold:**Strong and Emphasize**</br>
     System.out.println();
     } 
 ```
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}. $$
 ---
 | 111    | 222    | 333    | 444    | 
 | ------ |:------:|:------ | ------:|
@@ -22,5 +24,5 @@ bold:**Strong and Emphasize**</br>
 ***
 </br>
 > Reference
->> quote
->>> sub
+> > quote
+> > > sub
